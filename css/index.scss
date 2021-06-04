@@ -275,6 +275,8 @@
 
             .left {
                 width: 100%;
+                position: relative;
+                z-index: 5;
 
                 .qrcode-wrapper {
                     .qrcode-2 {

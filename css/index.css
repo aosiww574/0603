@@ -298,6 +298,8 @@
   }
   .part1 .part1-wrapper .left {
     width: 100%;
+    position: relative;
+    z-index: 5;
   }
   .part1 .part1-wrapper .left .qrcode-wrapper .qrcode-2 a {
     width: 120px;
